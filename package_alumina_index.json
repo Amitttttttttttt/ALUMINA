@@ -11,9 +11,9 @@
           "architecture": "avr",
           "version": "1.0.0",
           "category": "Alumina",
-          "url": "https://www.dropbox.com/scl/fi/1u4fc32opvqzjp1xh972o/ALUMINA_Package_1.0.0.zip?rlkey=k81im7cax58opluue6331s2kk&st=v069rks6&dl=1",
+          "url": "https://www.dropbox.com/scl/fi/8o1y0bmkw73ua36coqq2b/ALUMINA_Package_1.0.0.zip?rlkey=rxlbwcy8omqivj6si66sy0rev&st=h0rh0ddu&dl=1",
           "archiveFileName": "ALUMINA_Package_1.0.0.zip",
-          "checksum": "SHA-256:129555AC64E271DA9A4DAE48AF89A6133AEF9C1CC549A5232A9603AE336744D1",
+          "checksum": "SHA-256:307D0413C080675854A593717711E4B7C2C317B66BBA65A0B515A97CC2DA6D7F",
           "size": "7127080",
           "boards": [
             {
@@ -46,5 +46,6 @@
     }
   ]
 }
+
 
 
