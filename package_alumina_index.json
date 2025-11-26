@@ -1,0 +1,31 @@
+{
+  "packages": [
+    {
+      "name": "ALUMINA",
+      "maintainer": "Amit Cohen",
+      "websiteURL": "https://github.com/Amitttttttttttt",
+      "email": "Amitcoh2008@gmail.com",
+      "platforms": [
+        {
+          "name": "ALUMINA",
+          "architecture": "avr",
+          "version": "1.0.0",
+          "category": "Alumina",
+          "url": "https://www.dropbox.com/scl/fi/fkj5nvuatu3ig5rssv8rq/ALUMINA_Package_1.0.0.zip?rlkey=1noqaci5yzj7svsj5ode5q1zg&st=c9s86y86&dl=1",
+          "archiveFileName": "ALUMINA_Package_1.0.0",
+          "checksum": "SHA-256:1955889C676467E42584CF9F69FDEBCBBA14DB7F3710608F99D6C8A5881BF29C",
+          "boards": [
+            {
+              "name": "ALUMINA.v1"
+            }
+          ],
+          "toolsDependencies": []
+        }
+      ],
+      "tools": []
+    }
+  ]
+}
+
+
+
