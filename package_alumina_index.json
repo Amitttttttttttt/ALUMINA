@@ -13,7 +13,7 @@
           "category": "Alumina",
           "url": "https://www.dropbox.com/scl/fi/1u4fc32opvqzjp1xh972o/ALUMINA_Package_1.0.0.zip?rlkey=k81im7cax58opluue6331s2kk&st=v069rks6&dl=1",
           "archiveFileName": "ALUMINA_Package_1.0.0.zip",
-          "checksum": "SHA-256:1955889C676467E42584CF9F69FDEBCBBA14DB7F3710608F99D6C8A5881BF29C",
+          "checksum": "SHA-256:129555AC64E271DA9A4DAE48AF89A6133AEF9C1CC549A5232A9603AE336744D1",
           "size": "7127080",
           "boards": [
             {
@@ -46,4 +46,5 @@
     }
   ]
 }
+
 
