@@ -9,12 +9,12 @@
         {
           "name": "ALUMINA",
           "architecture": "avr",
-          "version": "1.0.0",
+          "version": "1.5.0",
           "category": "Alumina",
-          "url": "https://www.dropbox.com/scl/fi/f0p1x3jievathmwvy1ch2/ALUMINA.zip?rlkey=39kvsega2jzj31hl9o65m2p8k&st=stbgu6do&dl=1",
-          "archiveFileName": "ALUMINA.zip",
-          "checksum": "SHA-256:EE6D93A518D0EAB04312B8D99825751FD5197652F6250FFDEC43D81BD6B39C95",
-          "size": "3322674",
+          "url": "https://www.dropbox.com/scl/fi/zawzqymsup4r2d4laxqg6/ALUMINA_Board_Manager.zip?rlkey=d7wvwgoucrtz7frudw12dv6ya&st=zr6k6l3w&dl=1",
+          "archiveFileName": "ALUMINA_Board_Manager.zip",
+          "checksum": "SHA-256:4C02F45C77D0470F79330625068AA6B1BF86F4AA87D60D1E0854B44C76828C3E",
+          "size": "3326390",
           "boards": [
             {
               "name": "ALUMINA.v1"
